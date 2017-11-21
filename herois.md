@@ -7,4 +7,3 @@
 * Aquaman
 * Mujer Maravilla
 * Jessica Jones
-* Zulema 
